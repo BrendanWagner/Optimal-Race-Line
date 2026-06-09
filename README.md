@@ -2,7 +2,7 @@
 
 Finds the lap-time-minimizing path around Silverstone Circuit using a point-mass vehicle model and nonlinear optimal control.
 
-![Optimal racing line around Silverstone, coloured by speed](output/results.png)
+![Optimal racing line around Silverstone, coloured by speed](results.png)
 
 ---
 
